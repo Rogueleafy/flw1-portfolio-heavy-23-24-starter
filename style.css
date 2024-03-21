@@ -16,14 +16,14 @@
   }
   
   body {
-    background-color: #f9d60e;
+    background-color: #1b7456;
     padding: 20px;
     font-family: Arial;
   }
   
   .heading{
-    background-color: #373738;
-    color: #efeff2;
+    background-color: #1f1fd1;
+    color: #13133f;
     padding: 1em;
   }
   
@@ -41,7 +41,7 @@
     background-color: #272b30;
     margin: 20px;
     padding: 10px;
-    color: white;
+    color: #0de789;
   }
 
 
@@ -63,10 +63,13 @@
   footer {
     background-color: #272b30;
     padding: 20px;
-    color: white;
+    color: #3fab5a;
     text-align: center;
     font-size: 1em;
     border-radius: 10px;
   
   }
-  
+  img { width: 250px;
+  border-radius: 10px;
+       marker-mid:10px ;
+  }
